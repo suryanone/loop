@@ -1,0 +1,19 @@
+{
+  "name": "loop",
+  "version": "1.0.0",
+  "description": "fundamental 4 - loop",
+  "main": "sumAll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryanone/loop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryanone/loop/issues"
+  },
+  "homepage": "https://github.com/suryanone/loop#readme"
+}
